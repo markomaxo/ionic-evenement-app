@@ -36,12 +36,8 @@ All app preview screenshots were taken by running `ionic serve --lab` on a retin
 
 
 
-  <img src="resources/screenshots/SchedulePage.png" alt="Schedule">
 
 
-
-
-  <img src="resources/screenshots/AboutPage.png" alt="Schedule">
 
 
 
@@ -50,9 +46,8 @@ All app preview screenshots were taken by running `ionic serve --lab` on a retin
 
 ### Progressive Web App
 
-1. Un-comment [these lines](https://github.com/ionic-team/ionic2-app-base/blob/master/src/index.html#L21)
-2. Run `npm run ionic:build --prod`
-3. Push the `www` folder to your hosting service
+1. Run `npm run ionic:build --prod`
+2. Push the `www` folder to your hosting service
 
 ### Android
 
