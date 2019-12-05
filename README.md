@@ -35,6 +35,8 @@ All app preview screenshots were taken by running `ionic serve --lab` on a retin
 
 
 
+![2](https://user-images.githubusercontent.com/58534833/70192378-e6065b00-16fb-11ea-8582-19aaa5eac6ec.png)
+
 
 
 
